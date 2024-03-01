@@ -1,16 +1,9 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/your_username/your_repository/main/assets/header_image.png" alt="Header Image" width="800">
-</div>
-
 <h1 align="center">Welcome to My C++ Playground</h1>
 
 <p align="center">Exploring the Wonders of C++ Every Day! 🚀</p>
 
 <div align="center">
-  <a href="#about">About</a> •
-  <a href="#exercises">Exercises</a> •
-  <a href="#projects">Projects</a> •
-  <a href="#license">License</a>
+  <a href="#about">About</a>
 </div>
 
 ## About
